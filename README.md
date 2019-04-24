@@ -1,9 +1,9 @@
-# FinalProject_Assignment2_CE888
+# Final Project_Assignment2_CE888
 
 Project 2: Structure in compressed spaces (Unsupervised learning)
 
 Steps to run the program:
-- In order to the run the program download/clone the folder along with the dataset (download the dtaset by using provided link).
+- In order to the run the program download/clone the folder along with the dataset (download the dataset by using provided link {please check the dataset wise readme.md}).
 - Put them inside the same directory.
 - upload the .ipynb files in jupyter notebook.
 - run the program
